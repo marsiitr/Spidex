@@ -1,5 +1,5 @@
 # Spidex
-![TEAM SPIDEX]()
+(![TEAM SPIDEX](https://user-images.githubusercontent.com/48491729/55255121-cf138d00-527f-11e9-8ef3-d4d1ea1dc91a.JPG)
 <h2> Abstarct </h2> 
 <p> The idea was to create a bot which imitates the motion of a spider with the help of six legs.The motion of a single leg had to be different then the typical ‘dog motion’. </p>
 <h2> Motivation </h2>
